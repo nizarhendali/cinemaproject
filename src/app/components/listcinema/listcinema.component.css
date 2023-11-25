@@ -1,0 +1,14 @@
+div{
+    display: inline-block;
+    margin-left: 2%;
+}
+
+#pan1{
+    margin-top: 5%;
+    margin-left: 5px;
+    width: 500px;
+    height: 500px;
+
+
+    display: inline-block;
+}

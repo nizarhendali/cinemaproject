@@ -1,0 +1,13 @@
+.ville{
+    margin-top: 5%;
+    margin-left: 1%;
+    display: inline-block;
+    float: left;
+}
+.panel{
+    
+    width: 1080px;
+    margin-top: 5%;
+    float: right;
+}
+
